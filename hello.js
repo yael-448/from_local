@@ -1,6 +1,7 @@
 const a=()=>{
 
 }
-const b=()=>{
+const b=()=>{ 
+    return 5
     
 }
