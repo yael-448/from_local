@@ -10,5 +10,5 @@ const b=()=>{
     
 }
 const c=()=>{
-  console.log("yael");
+  console.log("yael func");
     }
