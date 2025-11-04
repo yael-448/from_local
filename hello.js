@@ -9,6 +9,11 @@ const b=()=>{
 
     
 }
+
 const e=()=>{
     alert("e")
+}
+const c=()=>{
+  console.log("yael func");
+
     }
