@@ -9,3 +9,6 @@ const b=()=>{
 
     
 }
+const d=()=>{
+   confirm("are you sure?")
+    }
